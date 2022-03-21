@@ -1,0 +1,11 @@
+Para o funcionamento do arquivo pimiv.c é necessário o compilador Code::Blocks
+
+O mesmo pode ser adquirido de forma gratuita através do site http://www.codeblocks.org/
+
+Ao fazer a instalação do codeblocks, vá ao canto superior esquerdo na parte "File" e selecione a opção "Open"
+Ou utilize o comando ctrl+O
+
+Então, selecione o arquivo pimiv.c
+
+
+O arquivo pimiv.exe também já está configurado para funcionamento sem necessidade do compilador.
